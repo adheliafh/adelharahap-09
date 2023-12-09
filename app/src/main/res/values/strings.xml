@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="kotlin">Kotlin adalah pemrograman sumber terbuka yang diketik secara statis
+bahasa yang menargetkan JVM, Android, JavaScript dan
+Warga asli. ini dikembangkan oleh JetBrains. Proyek ini dimulai pada
+2010 dan merupakan open source sejak awal. Pertama
+rilis resmi 1.0 pada bulan Februari 2016.</string>
+    <string name="Java">Java adalah bahasa pemrograman yang biasa digunakan untuk mengembangkan bagian back-end dari software, aplikasi Android, dan juga website.
+Java juga dikenal memiliki moto “Write Once, Run Anywhere”. Artinya, Java mampu dijalankan di berbagai platform tanpa perlu disusun ulang menyesuaikan platformnya. Misalnya, berjalan di Android, Linux, Windows, dan lainnya.</string>
+    <string name="Python">Python merupakan bahasa pemrograman komputer yang biasa dipakai untuk membangun situs, software/aplikasi, mengotomatiskan tugas dan melakukan analisis data. Bahasa pemrograman ini termasuk bahasa tujuan umum. Artinya, ia bisa digunakan untuk membuat berbagai program berbeda, bukan khusus untuk masalah tertentu saja.</string>
+    <string name="Judul">Understand about</string>
+</resources>
